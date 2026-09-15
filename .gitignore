@@ -1,0 +1,10 @@
+# Arquivos de acompanhamento interno (nao fazem parte da entrega)
+PLANEJAMENTO.md
+ROTEIRO_DE_TESTES.md
+diario.md
+MATERIAL_RELATORIO.md
+
+# Evidencias e prints de sessao (vao no .tar, nao no historico do Github)
+evidencias.log
+*.log
+print_dia*.png
